@@ -4,4 +4,5 @@ public enum LocationStatus {
     ACTIVE,
     INACTIVE,
     INPROGRESS
+    PENDING
 }
