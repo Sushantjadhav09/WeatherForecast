@@ -3,5 +3,5 @@ package com.WFA.Location.Enums;
 public enum LocationStatus {
     ACTIVE,
     INACTIVE,
-    PASSIVE_SUSH
+    INPROGRESS
 }
